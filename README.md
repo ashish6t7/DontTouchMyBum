@@ -6,7 +6,7 @@ A deliberately ridiculous, endless, single-screen top-down 90s-arcade shooter. Y
 
 ---
 
-# Protect your BUMS 🍑 and hit 789 KILLS to claim the BOUNTY, Someone's trying to clap it 💀, Goooooo.........
+# Protect your BUMS 🍑 and hit 789 KILLS to claim the BOUNTY, Someone's trying to EAT it 💀, Goooooo.........
 
 ---
 
