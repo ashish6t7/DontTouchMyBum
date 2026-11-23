@@ -28,7 +28,7 @@ No installation required! Just download, extract, and double-click to play:
 
 * Guys and Gurls, I have to go through a serious medical surgery due to a condition I have, so if u contribute even a penny, it will be very helpful. look 😁, u don't have too, it's up to u.
 * UPI ID : ```ashish6t7@ybl```
-* Now go enjoy the game 💋, and save your PEACHES 🍑...
+* Now go enjoy the game 💋, the game is 100% free to play so go and save your PEACHES 🍑...
 
 ---
 
