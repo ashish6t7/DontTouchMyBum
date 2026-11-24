@@ -37,19 +37,24 @@ No installation required! Just download, extract, and double-click to play:
 
 ## 🍼 New in Version 2.0.0: Choose Your Strength!
 
-At the start of the game, select your difficulty directly from the interactive top dropdown via **mouse click** or **`UP` / `DOWN` / `1,2,3` + `ENTER`**:
+At the start of the game, select your difficulty directly from the 3 visible interactive brick cards via **`UP` / `DOWN` / `W` / `S` / `1,2,3`** or **mouse click**, and start with **`SPACE`** or **`ENTER`**:
 
 | Difficulty Level | Health & Healing | Spawn & Monster Traits | Style |
 |---|:---:|---|---|
-| **`1. kiddo 🍼`** | **6 Hearts**, Heals every **20 kills** | ~55% fewer monster spawns, squishy monsters, slower speed, generous 1.6s invulnerability | Relaxed, fun, and beginner-friendly arcade blasting |
-| **`2. not bad 😁`** *(Default)* | **5 Hearts**, Heals every **30 kills** | ~35% fewer spawns than hard, fair progression, 1.3s invulnerability | Balanced, engaging arcade challenge |
-| **`3. save your peach 🍑💀`** | **5 Hearts**, Heals every **40 kills** | Full relentless original swarm difficulty, faster monsters, 1.0s invulnerability | The brutal original challenge |
+| **`1. Virgin Peach 🍑✨`** | **6 Hearts**, Heals every **20 kills** | Max 25 monsters (4 active attackers, 21 roaming at 70% speed), generous 1.6s invulnerability | Relaxed, fun, and beginner-friendly arcade blasting |
+| **`2. Spank Me Daddy 😈💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Max 35 monsters (6 active attackers, 29 roaming at 70% speed), 1.3s invulnerability | Balanced, engaging arcade challenge |
+| **`3. Total Peach Carnage 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Max 45 monsters (10 active attackers, 35 roaming at 70% speed), 1.0s invulnerability | Pure brutal hardcore chaos |
 
 ### Additional Upgrades in v2.0.0:
+* **⚡ Thunder Ability (`[T]` key):** Hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks. Tactical single-use latch: only 1 charge consumed per hold (up to 3 max charges).
+* **🔊 New Funny Sound Effects:** Added new funny sound effects!
+* **👾 Staggered Monster Attack System:** Only 4, 6, or 10 monsters actively hunt you down at a time, while remaining monsters roam at 70% speed. When an active attacker falls, the closest roaming monster immediately takes its place!
+* **🎯 Unshadowed Crosshair Pointer:** The in-game cursor is always drawn on top of all UI and menus so nothing can shadow it.
+* **🔄 Restart Briefing:** Restarting with `R` or replaying after death always returns directly to the opening level selection & monster briefing screen.
 * **💥 Sharp Bullet Visuals:** Real aerodynamic cartridge projectiles with supersonic luminous tracer streaks.
 * **⚡ Faster Fire Rate:** 14.5 shots/second for snappier gunplay.
-* **🖥️ Larger Window:** 1440x810 default window resolution for a cleaner view on modern screens.
-* **👾 Monster Guide:** Fully preserved right on the start screen below the difficulty selector with live dynamic healing thresholds.
+* **🖥️ Larger Window:** 1600x900 default window resolution for a cleaner view on modern screens.
+* **👾 Monster Guide:** Full monster guide preserved right on the start screen alongside the difficulty bricks with live dynamic healing thresholds.
 
 ---
 
@@ -78,11 +83,11 @@ At the start of the game, select your difficulty directly from the interactive t
 | **`W A S D` / Arrow Keys** | Move your shooter (diagonals are speed-normalized) |
 | **Mouse Cursor** | Aim your gun |
 | **Hold Left Mouse Button** | Continuous rapid-fire (unlimited ammo, no reload) |
-| **`UP` / `DOWN` / `W` / `S`** | Navigate difficulty levels on start screen |
-| **`1` / `2` / `3`** | Directly select difficulty level on start screen |
-| **`ENTER`** | Toggle / confirm difficulty dropdown on start screen |
-| **`SPACE`** | Start game / Respawn |
-| **`R`** | Instant restart with a fresh seed |
+| **Hold `T`** | Unleash Thunder nuclear screen-wipe (1 per hold, max 3 charges) |
+| **`UP` / `DOWN` / `W` / `S`** | Navigate difficulty brick cards on start screen |
+| **`1` / `2` / `3`** | Directly select difficulty level |
+| **`SPACE` / `ENTER`** | Start game / confirm selection / Respawn |
+| **`R`** | Instant restart (returns to level select & monster briefing) |
 | **`P`** | Pause (also auto-pauses on window focus loss) |
 | **`M`** | Mute / Unmute audio |
 | **`-` / `=`** | Volume down / Volume up |
