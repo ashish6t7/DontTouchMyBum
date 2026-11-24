@@ -51,7 +51,7 @@ At the start of the game, select your difficulty directly from the 3 visible int
 | **`3. Total Peach Carnage 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Pure brutal hardcore chaos |
 
 ### Additional Upgrades in v2.0.0:
-* **⚡ Thunder Ability (`[T]` key):** Hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks.
+* **⚡ Thunder Ability (`[T]` key):** Ordinary BUM 🍑 protection wasn't enough, so hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks.
 * **🔊 New Funny Sound Effects** 
 * **💥 Sharp Bullet Visuals:** Real aerodynamic cartridge projectiles with supersonic luminous tracer streaks.
 * **⚡ Faster Fire Rate**
