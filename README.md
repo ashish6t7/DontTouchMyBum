@@ -16,9 +16,9 @@ No installation required! Just download, extract, and double-click to play:
 
 | Platform | Download Link | File Size | How to Play |
 |:---:|:---:|:---:|---|
-| **🪟 Windows** | [**Download Windows ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Windows.zip) <br> *(or [Standalone .exe](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum.exe))* | ~323 KB | Unzip and double-click `DontTouchMyBum.exe` |
+| **🪟 Windows** | [**Download Windows ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Windows.zip) | ~323 KB | Unzip and double-click `DontTouchMyBum.exe` |
 | **🍏 macOS** | [**Download macOS ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-macOS.zip) | ~222 KB | Unzip and open `DontTouchMyBum.app`<br>*(First run: Right-click > Open)* |
-| **🐧 Linux** | [**Download Linux ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Linux.zip) <br> *(or [.tar.gz](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Linux.tar.gz))* | ~322 KB | Unzip, make executable (`chmod +x DontTouchMyBum`), and run `./DontTouchMyBum` |
+| **🐧 Linux** | [**Download Linux ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Linux.zip) | ~322 KB | Unzip, make executable (`chmod +x DontTouchMyBum`), and run `./DontTouchMyBum` |
 
 *(Compatible with Windows 10/11, macOS Apple Silicon & Intel, and all Linux distros: Ubuntu, Kubuntu, Debian, Arch, Fedora).*
 
