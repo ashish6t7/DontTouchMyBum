@@ -5,7 +5,7 @@
   <img src="screenshot_guide.png" width="49%">
 </p>
 
-> **Protect your bums for $1... spoiler: you won't last. Swarms of nasty monsters want that peach, and I dare you to reach 789 kills without getting your peach grabbed and clapped. 🍑😈 Zero install, just double-click to play.**
+> **Protect your bums for $1... spoiler: you won't last. Swarms of nasty monsters want that peach, and I dare you to reach 789 kills in level 3 without getting your peach grabbed and clapped. 🍑😈 Zero install, just double-click to play.**
 
 A deliberately ridiculous, endless, single-screen top-down 90s-arcade shooter. You launch it and you are instantly playing. Monsters pour in from the screen edges to grab your cheeks. You hold the mouse button and a gun with unlimited ammo spews out hilarious sounds. The longer you live, the nastier it gets!
 
