@@ -1,5 +1,10 @@
 # DontTouchMyBum 🍑👾
 
+<p align="center">
+  <img src="screenshot.png" width="49%">
+  <img src="screenshot_guide.png" width="49%">
+</p>
+
 > **Protect your bums for $1... spoiler: you won't last. Swarms of nasty monsters want that peach, and I dare you to reach 789 kills without getting your peach grabbed and clapped. 🍑😈 Zero install, just double-click to play.**
 
 A deliberately ridiculous, endless, single-screen top-down 90s-arcade shooter. You launch it and you are instantly playing. Monsters pour in from the screen edges to grab your cheeks. You hold the mouse button and a gun with unlimited ammo spews out hilarious sounds. The longer you live, the nastier it gets!
@@ -16,9 +21,9 @@ No installation required! Just download, extract, and double-click to play:
 
 | Platform | Download Link | File Size | How to Play |
 |:---:|:---:|:---:|---|
-| **🪟 Windows** | [**Download Windows ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Windows.zip) | ~323 KB | Unzip and double-click `DontTouchMyBum.exe` |
-| **🍏 macOS** | [**Download macOS ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-macOS.zip) | ~222 KB | Unzip and open `DontTouchMyBum.app`<br>*(First run: Right-click > Open)* |
-| **🐧 Linux** | [**Download Linux ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Linux.zip) | ~322 KB | Unzip, make executable (`chmod +x DontTouchMyBum`), and run `./DontTouchMyBum` |
+| **🪟 Windows** | [**Download Windows ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Windows.zip) | ~639 KB | Unzip and double-click `DontTouchMyBum.exe` |
+| **🍏 macOS** | [**Download macOS ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-macOS.zip) | ~528 KB | Unzip and open `DontTouchMyBum.app`<br>*(First run: Right-click > Open)* |
+| **🐧 Linux** | [**Download Linux ZIP (v2.0.0)**](https://github.com/ashish6t7/DontTouchMyBum/releases/download/v2.0.0/DontTouchMyBum-Linux.zip) | ~692 KB | Unzip, make executable (`chmod +x DontTouchMyBum`), and run `./DontTouchMyBum` |
 
 *(Compatible with Windows 10/11, macOS Apple Silicon & Intel, and all Linux distros: Ubuntu, Kubuntu, Debian, Arch, Fedora).*
 
@@ -39,30 +44,26 @@ No installation required! Just download, extract, and double-click to play:
 
 At the start of the game, select your difficulty directly from the 3 visible interactive brick cards via **`UP` / `DOWN` / `W` / `S` / `1,2,3`** or **mouse click**, and start with **`SPACE`** or **`ENTER`**:
 
-| Difficulty Level | Health & Healing | Spawn & Monster Traits | Style |
-|---|:---:|---|---|
-| **`1. Virgin Peach 🍑✨`** | **6 Hearts**, Heals every **20 kills** | Max 25 monsters (4 active attackers, 21 roaming at 70% speed), generous 1.6s invulnerability | Relaxed, fun, and beginner-friendly arcade blasting |
-| **`2. Spank Me Daddy 😈💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Max 35 monsters (6 active attackers, 29 roaming at 70% speed), 1.3s invulnerability | Balanced, engaging arcade challenge |
-| **`3. Total Peach Carnage 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Max 45 monsters (10 active attackers, 35 roaming at 70% speed), 1.0s invulnerability | Pure brutal hardcore chaos |
+| Difficulty Level | Health & Healing | Style |
+|---|:---:|---|
+| **`1. Virgin Peach 🍑✨`** | **6 Hearts**, Heals every **20 kills** | Relaxed, fun, and beginner-friendly arcade blasting |
+| **`2. Spank Me Daddy 😈💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Balanced, engaging arcade challenge |
+| **`3. Total Peach Carnage 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Pure brutal hardcore chaos |
 
 ### Additional Upgrades in v2.0.0:
-* **⚡ Thunder Ability (`[T]` key):** Hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks. Tactical single-use latch: only 1 charge consumed per hold (up to 3 max charges).
-* **🔊 New Funny Sound Effects:** Added new funny sound effects!
-* **👾 Staggered Monster Attack System:** Only 4, 6, or 10 monsters actively hunt you down at a time, while remaining monsters roam at 70% speed. When an active attacker falls, the closest roaming monster immediately takes its place!
-* **🎯 Unshadowed Crosshair Pointer:** The in-game cursor is always drawn on top of all UI and menus so nothing can shadow it.
-* **🔄 Restart Briefing:** Restarting with `R` or replaying after death always returns directly to the opening level selection & monster briefing screen.
+* **⚡ Thunder Ability (`[T]` key):** Hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks.
+* **🔊 New Funny Sound Effects** 
 * **💥 Sharp Bullet Visuals:** Real aerodynamic cartridge projectiles with supersonic luminous tracer streaks.
-* **⚡ Faster Fire Rate:** 14.5 shots/second for snappier gunplay.
-* **🖥️ Larger Window:** 1600x900 default window resolution for a cleaner view on modern screens.
+* **⚡ Faster Fire Rate**
 * **👾 Monster Guide:** Full monster guide preserved right on the start screen alongside the difficulty bricks with live dynamic healing thresholds.
 
 ---
 
 # I need some help too...
 
-* Guys and Gurls, I have to go through a serious medical surgery due to a condition I have, so if u contribute even a penny, it will be very helpful. look 😁, u don't have too, it's up to u.
+* Guys and Gurls, I have to go through a serious medical surgery due to a condition I have, so if u contribute even few pennies, it will be very helpful. look 😁, u don't have too, it's totally up to u.
 * UPI ID : ```ashish6t7@ybl```
-* Now go enjoy the game 💋, the game is 100% free to play so go and save your PEACHES 🍑...
+* Now go enjoy the game 💋, the game is 100% free to play so Gooooo, and save your PEACHES 🍑...
 
 ---
 
@@ -95,19 +96,6 @@ At the start of the game, select your difficulty directly from the 3 visible int
 | **`F3`** | Toggle FPS & diagnostic overlay |
 | **`F11`** | Toggle borderless fullscreen |
 | **`ESC`** | Quit game |
-
----
-
-## 👾 Monsters Intel
-
-| Monster | Unlocks At | Traits |
-|:---:|:---:|---|
-| **Blob** | **0s** | Relentless green/pink horned chaser. |
-| **Zoomer** | **25s** | High-speed cyan sprinter. |
-| **Chonk** | **50s** | Massive 22x22 orange tank with heavy HP. |
-| **Wobbler** | **80s** | Weaves in an unpredictable sideways snake pattern. |
-| **Splitter** | **110s** | Spiked core that splits into **2 MiniBlobs** upon death! |
-| **MiniBlob** | *(On Split)* | Fast, tiny swarmer fragments. |
 
 ---
 
