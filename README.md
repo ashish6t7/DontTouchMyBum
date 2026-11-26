@@ -56,13 +56,13 @@ At the start of the game, select your difficulty directly from the 3 visible int
 
 | Difficulty Level | Health & Healing | Style |
 |---|:---:|---|
-| **`1. Virgin Peach 🍑✨`** | **6 Hearts**, Heals every **20 kills** | Relaxed, fun, and beginner-friendly arcade blasting |
-| **`2. Spank Me Daddy 😈💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Balanced, engaging arcade challenge |
-| **`3. Total Peach Carnage 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Pure brutal hardcore chaos |
+| **`1. Gentle Bum (Relaxed) 🍑✨`** | **6 Hearts**, Heals every **20 kills** | Relaxed, fun, and beginner-friendly arcade blasting |
+| **`2. Cheeky Bum (Balanced) 😈💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Balanced, engaging arcade challenge |
+| **`3. Bum Apocalypse (Insane) 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Pure brutal hardcore chaos |
 
 ### Additional Upgrades in v2.0.0:
 * **⚡ Thunder Ability (`[T]` key):** Ordinary BUM 🍑 protection wasn't enough, so hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks.
-* **🔊 New Funny Sound Effects** 
+* **🔊 New Funny Sound Effects and Dynamic Music** 
 * **💥 Sharp Bullet Visuals:** Real aerodynamic cartridge projectiles with supersonic luminous tracer streaks.
 * **⚡ Faster Fire Rate**
 * **👾 Monster Guide:** Full monster guide preserved right on the start screen alongside the difficulty bricks with live dynamic healing thresholds.
