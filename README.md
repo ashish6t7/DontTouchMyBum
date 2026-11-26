@@ -17,9 +17,9 @@ A deliberately ridiculous, endless, single-screen top-down 90s-arcade shooter. Y
 
 ## 🌐 Play Instantly in Your Browser (No Download Required!) ⚡
 
-You can play the complete game right now directly in your web browser — powered by WebAssembly:
-
 ### 👉 [**Click Here to Play DontTouchMyBum in Browser**](https://ashish6t7.github.io/DontTouchMyBum/) 🍑👾
+
+<img width="1680" height="1050" alt="Screenshot 2026-11-26 at 10 57 19 AM" src="https://github.com/user-attachments/assets/679300d8-d9f1-4b02-8b05-9ae16d4e1cea" />
 
 *Zero installation, zero setup, full 60fps arcade graphics & funny sound effects — simply open the link and defend your bums!*
 
