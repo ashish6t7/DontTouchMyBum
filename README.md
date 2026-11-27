@@ -63,8 +63,7 @@ At the start of the game, select your difficulty directly from the 3 visible int
 ### Additional Upgrades:
 * **⚡ Thunder Ability (`[R]` key or Right-Click):** Tap `R` or Right-Click to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks. 40 kills = +1 ⚡ Thunder refill (up to max 3).
 * **🕺 New Zombie Monster "Disco":** Spawns every 35s with 50 HP and triggers custom procedural retro funky disco music! Killing Disco rewards +1 ❤️ Heart refill (if hearts ≤ 3).
-* **💥 MiniBlob Invulnerability & Yellow Body:** Splitting MiniBlobs are bright yellow and get a 2.0-second invulnerability shield on birth before dying in 1 hit.
-* **🔊 Funny Sound Effects & 12-Kill Anime Wow:** Random monster giggles and dynamic anime streak sound effect on 12 consecutive kills without damage.
+* **🔊 Funny Sound Effects & 12-Kill Anime Wow:** Random monster giggles and dynamic streak sound effect on 12 consecutive kills without damage.
 * **💥 Sharp Bullet Visuals:** Real aerodynamic cartridge projectiles with supersonic luminous tracer streaks.
 * **⚡ Faster Fire Rate**
 * **👾 Monster Guide:** Full monster guide preserved right on the start screen alongside the difficulty bricks with live dynamic healing thresholds.
@@ -96,11 +95,7 @@ At the start of the game, select your difficulty directly from the 3 visible int
 | **`W A S D` / Arrow Keys** | Move your shooter (diagonals are speed-normalized) |
 | **Mouse Cursor** | Aim your gun |
 | **Hold Left Mouse Button** | Continuous rapid-fire (unlimited ammo, no reload) |
-| **Hold `T`** | Unleash Thunder nuclear screen-wipe (1 per hold, max 3 charges) |
-| **`UP` / `DOWN` / `W` / `S`** | Navigate difficulty brick cards on start screen |
-| **`1` / `2` / `3`** | Directly select difficulty level |
-| **`SPACE` / `ENTER`** | Start game / confirm selection / Respawn |
-| **`R`** | Instant restart (returns to level select & monster briefing) |
+| **Press `R` or Right Click** | Unleash Thunder nuclear screen-wipe (1 per hold, max 3 charges) |
 | **`P`** | Pause (also auto-pauses on window focus loss) |
 | **`M`** | Mute / Unmute audio |
 | **`-` / `=`** | Volume down / Volume up |
