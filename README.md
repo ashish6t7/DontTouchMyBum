@@ -17,9 +17,9 @@ A deliberately ridiculous, endless, single-screen top-down 90s-arcade shooter. Y
 
 ## 🌐 Play Instantly in Your Browser (No Download Required!) ⚡
 
-### 👉 [**Click Here to Play DontTouchMyBum in Browser**](https://ashish6t7.github.io/DontTouchMyBum/) 🍑👾
+You can play the complete game right now directly in your web browser — powered by WebAssembly:
 
-<img width="1680" height="1050" alt="Screenshot 2026-11-26 at 10 57 19 AM" src="https://github.com/user-attachments/assets/679300d8-d9f1-4b02-8b05-9ae16d4e1cea" />
+### 👉 [**Click Here to Play DontTouchMyBum in Browser**](https://ashish6t7.github.io/DontTouchMyBum/) 🍑👾
 
 *Zero installation, zero setup, full 60fps arcade graphics & funny sound effects — simply open the link and defend your bums!*
 
@@ -56,13 +56,15 @@ At the start of the game, select your difficulty directly from the 3 visible int
 
 | Difficulty Level | Health & Healing | Style |
 |---|:---:|---|
-| **`1. Gentle Bum (Relaxed) 🍑✨`** | **6 Hearts**, Heals every **20 kills** | Relaxed, fun, and beginner-friendly arcade blasting |
-| **`2. Cheeky Bum (Balanced) 😈💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Balanced, engaging arcade challenge |
-| **`3. Bum Apocalypse (Insane) 🍑🩸💀`** | **5 Hearts**, Heals every **40 kills** | Pure brutal hardcore chaos |
+| **`1. Gentle Bum (Relaxed) 🍑✌️`** | **5 Hearts**, Heals every **20 kills** | Relaxed, fun, and beginner-friendly arcade blasting |
+| **`2. Cheeky Bum (Balanced) 💋`** *(Default)* | **5 Hearts**, Heals every **30 kills** | Balanced, engaging arcade challenge |
+| **`3. Bum Apocalypse (Insane) 🍑💀`** | **5 Hearts**, Heals every **40 kills** | Pure brutal hardcore chaos |
 
-### Additional Upgrades in v2.0.0:
-* **⚡ Thunder Ability (`[T]` key):** Ordinary BUM 🍑 protection wasn't enough, so hold `T` to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks.
-* **🔊 New Funny Sound Effects and Dynamic Music** 
+### Additional Upgrades:
+* **⚡ Thunder Ability (`[R]` key or Right-Click):** Tap `R` or Right-Click to unleash a devastating golden nuclear shockwave that vaporizes all on-screen monsters into sparks. 40 kills = +1 ⚡ Thunder refill (up to max 3).
+* **🕺 New Zombie Monster "Disco":** Spawns every 35s with 50 HP and triggers custom procedural retro funky disco music! Killing Disco rewards +1 ❤️ Heart refill (if hearts ≤ 3).
+* **💥 MiniBlob Invulnerability & Yellow Body:** Splitting MiniBlobs are bright yellow and get a 2.0-second invulnerability shield on birth before dying in 1 hit.
+* **🔊 Funny Sound Effects & 12-Kill Anime Wow:** Random monster giggles and dynamic anime streak sound effect on 12 consecutive kills without damage.
 * **💥 Sharp Bullet Visuals:** Real aerodynamic cartridge projectiles with supersonic luminous tracer streaks.
 * **⚡ Faster Fire Rate**
 * **👾 Monster Guide:** Full monster guide preserved right on the start screen alongside the difficulty bricks with live dynamic healing thresholds.
@@ -111,7 +113,7 @@ At the start of the game, select your difficulty directly from the 3 visible int
 
 ## 💖 Healing & The $1 Bounty
 
-* **Kills = +1 Heart:** Restores +1 Heart to keep you alive (20 kills on Kiddo, 30 kills on Not Bad, 40 kills on Save Your Peach)!
+* **Kills = +1 Heart:** Restores +1 Heart to keep you alive (20 kills on Gentle Bum, 30 kills on Cheeky Bum, 40 kills on Bum Apocalypse)!
 * **Vanishing Monster Defense:** When a monster touches your body, it consumes 1 heart and immediately dies and vanishes, triggering a 48px pushback shockwave and invulnerability.
 * **💰 The 789 Kills Challenge:** Hit **789 kills** in a single run, send the proof, and claim **$1**. Figure out where to send ✌️
 * **☕ Buy Me A Coffee:** UPI ID: `ashish6t7@ybl` 💋
